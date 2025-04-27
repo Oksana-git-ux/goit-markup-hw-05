@@ -31,6 +31,9 @@
     <symbol id="icon-linkedin" viewBox="0 0 32 32">
       <path fill="#f4f4fd" d="M32 32V20c0-5-1-10-8-10-3 0-5 2-6 4v-3h-7v21h7V21c0-2 0-5 4-5 3 0 3 3 3 6v10h7zM1 11h6v21H1V11zM4 0C2 0 0 2 0 4s2 4 4 4 4-2 4-4-2-4-4-4z" style="fill:var(--color1, #f4f4fd)"/>
     </symbol>
+    <symbol id="icon-popup-close" viewBox="0 0 32 32">
+      <path d="m32 3-3-3-13 13L3 0 0 3l13 13L0 29l3 3 13-13 13 13 3-3-13-13L32 3z"/>
+    </symbol>
     <symbol id="icon-person" viewBox="0 0 32 32">
       <path d="M16 16a5 5 0 1 0 0-11 5 5 0 0 0 0 11zm0 3c-4 0-11 1-11 5v1l2 2h18l2-2v-1c0-4-7-5-11-5z"/>
     </symbol>
@@ -43,8 +46,6 @@
     <symbol id="icon-frame" viewBox="0 0 32 32">
       <path fill="#fff" d="M32 3 0 18l10 3L26 9 14 22v7l6-5 7 2 5-23z" style="fill:var(--color1, #fff)"/>
     </symbol>
-    <symbol id="icon-popup-close" viewBox="0 0 32 32">
-      <path d="m32 3-3-3-13 13L3 0 0 3l13 13L0 29l3 3 13-13 13 13 3-3-13-13L32 3z"/>
-    </symbol>
+    
   </defs>
 </svg>
