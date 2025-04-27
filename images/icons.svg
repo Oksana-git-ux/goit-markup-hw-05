@@ -40,5 +40,8 @@
     <symbol id="icon-envelope" viewBox="0 0 24 32">
       <path d="M20 8H4l-2 2v12l2 2h16l2-2V10l-2-2zm0 4-7 5h-2l-7-5 1-1 7 4 7-4a1 1 0 1 1 1 1z"/>
     </symbol>
+    <symbol id="icon-frame" viewBox="0 0 32 32">
+      <path fill="#fff" d="M32 3 0 18l10 3L26 9 14 22v7l6-5 7 2 5-23z" style="fill:var(--color1, #fff)"/>
+    </symbol>
   </defs>
 </svg>
