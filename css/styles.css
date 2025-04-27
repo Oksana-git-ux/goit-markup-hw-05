@@ -710,7 +710,7 @@ body {
 }
 
 .popup-icon:focus + .popup-input {
-  fill: var(--pressed-state);
+  border-color: var(--pressed-state);
 }
 
 .popup-input-wraper::placeholder {
