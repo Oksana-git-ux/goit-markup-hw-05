@@ -31,6 +31,14 @@
     <symbol id="icon-linkedin" viewBox="0 0 32 32">
       <path fill="#f4f4fd" d="M32 32V20c0-5-1-10-8-10-3 0-5 2-6 4v-3h-7v21h7V21c0-2 0-5 4-5 3 0 3 3 3 6v10h7zM1 11h6v21H1V11zM4 0C2 0 0 2 0 4s2 4 4 4 4-2 4-4-2-4-4-4z" style="fill:var(--color1, #f4f4fd)"/>
     </symbol>
-    
+    <symbol id="icon-person" viewBox="0 0 32 32">
+      <path d="M16 16a5 5 0 1 0 0-11 5 5 0 0 0 0 11zm0 3c-4 0-11 1-11 5v1l2 2h18l2-2v-1c0-4-7-5-11-5z"/>
+    </symbol>
+    <symbol id="icon-phone" viewBox="0 0 24 32">
+      <path d="M20 18h-3l-1 1-2 2-7-7 2-2 1-1V8L8 7H6L4 9c1 8 7 14 15 15l2-2v-2l-1-2z"/>
+    </symbol>
+    <symbol id="icon-envelope" viewBox="0 0 24 32">
+      <path d="M20 8H4l-2 2v12l2 2h16l2-2V10l-2-2zm0 4-7 5h-2l-7-5 1-1 7 4 7-4a1 1 0 1 1 1 1z"/>
+    </symbol>
   </defs>
 </svg>
