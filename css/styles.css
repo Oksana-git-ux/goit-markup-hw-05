@@ -745,6 +745,9 @@ body {
   border-color: var(--primary-brand);
 }
 
+placeholder {
+}
+
 .chekbox-wraper {
   margin-bottom: 24px;
 }
@@ -794,4 +797,8 @@ body {
 
 .checkbox-link {
   color: var(--primary-brand);
+}
+
+.check-form-paragraf {
+  margin-bottom: 24px;
 }
