@@ -721,7 +721,7 @@ body {
   margin-bottom: 16px;
 }
 
-.textarea {
+.popup-form-textarea {
   margin-bottom: 16px;
 }
 
@@ -743,9 +743,6 @@ body {
 
 .popup_textarea:focus {
   border-color: var(--primary-brand);
-}
-
-placeholder {
 }
 
 .chekbox-wraper {
