@@ -710,8 +710,11 @@ body {
 }
 
 .popup-input:focus + .popup-icon {
-  border-color: var(--primary-brand);
   fill: var(--primary-brand);
+}
+
+.popup-input:focus {
+  border-color: var(--primary-brand);
 }
 
 .popup-input-wraper::placeholder {
@@ -720,15 +723,6 @@ body {
 
 .popup-form-textarea {
   margin-bottom: 16px;
-}
-
-.label-textaria {
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
-  color: var(--light-slate);
-  display: block;
-  margin-bottom: 4px;
 }
 
 .popup_textarea {
