@@ -116,7 +116,6 @@ body {
   justify-content: flex-start;
   flex-direction: row;
   gap: 40px;
-  margin-right: 332px;
 }
 
 .nav-list {
@@ -187,6 +186,7 @@ body {
   color: var(--color-background);
   max-width: 496px;
   padding-bottom: 48px;
+  margin: 0 auto 48px auto;
 }
 
 .button {
@@ -203,10 +203,6 @@ body {
   border: none;
   border-radius: 4px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.banner-title,
-.button {
   margin: 0 auto;
 }
 
@@ -282,7 +278,6 @@ body {
   letter-spacing: 0.02em;
   color: var(--overlays);
   margin-bottom: 8px;
-  text-align: center;
 }
 
 .title-text {
@@ -291,7 +286,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--body-text);
-  text-align: center;
   padding-bottom: 8px;
 }
 
@@ -422,7 +416,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
   color: var(--body-text);
 }
 
@@ -544,7 +537,6 @@ body {
   border: 1px solid var(--color-background);
   border-radius: 4px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  margin-right: 24px;
   width: 264px;
   height: 40px;
   background-color: transparent;
@@ -595,7 +587,7 @@ body {
   justify-content: center;
   align-items: center;
   opacity: 1;
-  pointer-events: auto;
+  pointer-events: none;
   transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1),
     visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -786,8 +778,4 @@ body {
 
 .checkbox-link {
   color: var(--primary-brand);
-}
-
-.button {
-  margin-bottom: 24px;
 }
